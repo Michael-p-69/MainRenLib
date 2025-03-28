@@ -1,0 +1,3 @@
+[submodule "DxV_hw_submodule"]
+	path = DxV_hw_submodule
+	url = https://github.com/Michael-p-69/DxV_HW-.git
